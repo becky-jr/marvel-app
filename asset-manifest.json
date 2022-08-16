@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/becky-jr/marvel-app.git/static/css/main.cba352b3.chunk.css",
+    "main.js": "/becky-jr/marvel-app.git/static/js/main.62020b43.chunk.js",
+    "main.js.map": "/becky-jr/marvel-app.git/static/js/main.62020b43.chunk.js.map",
+    "runtime-main.js": "/becky-jr/marvel-app.git/static/js/runtime-main.77b862e0.js",
+    "runtime-main.js.map": "/becky-jr/marvel-app.git/static/js/runtime-main.77b862e0.js.map",
+    "static/js/2.5e8bb286.chunk.js": "/becky-jr/marvel-app.git/static/js/2.5e8bb286.chunk.js",
+    "static/js/2.5e8bb286.chunk.js.map": "/becky-jr/marvel-app.git/static/js/2.5e8bb286.chunk.js.map",
+    "index.html": "/becky-jr/marvel-app.git/index.html",
+    "static/css/main.cba352b3.chunk.css.map": "/becky-jr/marvel-app.git/static/css/main.cba352b3.chunk.css.map",
+    "static/js/2.5e8bb286.chunk.js.LICENSE.txt": "/becky-jr/marvel-app.git/static/js/2.5e8bb286.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/becky-jr/marvel-app.git/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/becky-jr/marvel-app.git/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/becky-jr/marvel-app.git/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77b862e0.js",
+    "static/js/2.5e8bb286.chunk.js",
+    "static/css/main.cba352b3.chunk.css",
+    "static/js/main.62020b43.chunk.js"
+  ]
+}
